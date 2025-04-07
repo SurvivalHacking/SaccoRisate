@@ -9,3 +9,6 @@ Let's look back a bit at the history of a toy from the 1970s/80s, the ‘sack of
 ![Screenshot 2025-04-04 alle 01 10 34](https://github.com/user-attachments/assets/6f311680-9632-498c-85a9-1da68b4652e9)
 ![Screenshot 2025-04-04 alle 01 13 11](https://github.com/user-attachments/assets/e4032ee4-ff56-4b9a-a64d-bac6fd8c88f0)
 ![dd1acdb5-6bcb-41e6-9ff6-4a3ac3bacf01 avif](https://github.com/user-attachments/assets/87591ea0-7f8e-4ee3-8445-64c3837411f4)
+![s-l1600](https://github.com/user-attachments/assets/7f3f3deb-9f31-4834-8ca5-41bb4ce8c265)
+![s-l1600_(1)](https://github.com/user-attachments/assets/90d51784-0660-4345-8114-baf4349311d0)
+![s-l1600_(2)](https://github.com/user-attachments/assets/d1e77b18-872c-49be-aa36-ec143fe40919)
