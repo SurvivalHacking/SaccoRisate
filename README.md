@@ -20,3 +20,9 @@ Full video:   https://youtu.be/XcDwfCLVgN4
 ![s-l1600](https://github.com/user-attachments/assets/7f3f3deb-9f31-4834-8ca5-41bb4ce8c265)
 ![s-l1600_(1)](https://github.com/user-attachments/assets/90d51784-0660-4345-8114-baf4349311d0)
 ![s-l1600_(2)](https://github.com/user-attachments/assets/d1e77b18-872c-49be-aa36-ec143fe40919)
+
+---
+## 🎛️ Lista materiali / BOM
+* Lettore MP3 ALI: https://s.click.aliexpress.com/e/_oC2Wxbf
+* Sacchetti colorati AMZ: https://amzn.to/3DYaUDE
+* Link Affiliati / Affiliate links
