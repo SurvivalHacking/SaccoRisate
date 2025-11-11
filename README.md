@@ -26,3 +26,14 @@ Full video:   https://youtu.be/XcDwfCLVgN4
 * Lettore MP3 ALI: https://s.click.aliexpress.com/e/_oC2Wxbf
 * Sacchetti colorati AMZ: https://amzn.to/3DYaUDE
 * Link Affiliati / Affiliate links
+
+---
+## 🧾 Licenza
+
+Questo progetto è distribuito con licenza
+**Creative Commons – Attribuzione – Non Commerciale 4.0 Internazionale (CC BY-NC 4.0)**.
+
+Puoi condividerlo e modificarlo liberamente, **citando l’autore**
+(Davide Gatti / [survivalhacking](https://github.com/survivalhacking)) e **senza scopi commerciali**.
+
+🔗 [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
