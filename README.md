@@ -1,4 +1,4 @@
-# SACCO DI RISATE / BAG OF LAUGHT
+# SACCO DI RISATE / BAG OF LAUGHS
 
 ## 📘 Descrizione / Description
 Ripercorriamo un po' la storia di un giocattolo degli anni 70/80, il 'sacco di risate'  e vediamo che tecnologia veniva usate per dargli voce e approfittiamo per fare un dispositivo che lo possa sostituire con la tecnologia di oggi.
